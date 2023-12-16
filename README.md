@@ -1,6 +1,7 @@
 HTML, CSS, JavaScript - ExpandingGallery - a pretty gallery to showcase some pretty pictures as well as my skills. : )
 
-What it looks like (please keep in mind GIF framerate is very limited, the animations are buttery smooth).
+What it looks like (please keep in mind GIF framerate is very limited, the animations are buttery smooth):
+
 ![chrome-capture-2023-12-16](https://github.com/nikczemnydev/ExpandingGallery/assets/136376818/690544e7-4fd1-440a-9834-4afeb24c89e1)
 
 # INSTRUCTIONS #
