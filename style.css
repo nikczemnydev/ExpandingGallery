@@ -26,6 +26,7 @@ body {
     height: 80vh;
     border-radius: 50px;
     color: #fff;
+    text-shadow: 0px 2px 4px #000;
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
@@ -48,6 +49,7 @@ body {
 
 .panel.active h3 {
     opacity: 1;
+    transition: opacity 1s ease-in 1s;
 }
 
 @media(max-width: 480px) {
