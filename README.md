@@ -1,4 +1,6 @@
-HTML, CSS, JavaScript - ExpandingGallery - a pretty gallery to showcase some pretty pictures as well as my skills. : ) This web app is an engaging image gallery that features five panels. Each panel displays a portion of a picture, creating an intriguing mosaic effect. One of these panels is always expanded, revealing the full image. The magic lies in the smooth animations: when a panel expands, it elegantly grows in size, and when it contracts, it seamlessly transitions back to its original panel state.
+# Latest Addition: You can now view it online at https://codepen.io/nikczemnydev/pen/WNmXjyL #
+
+HTML, CSS, JavaScript - ExpandingGallery - a pretty gallery to showcase some pretty pictures as well as my skills. : ) This web application product is an engaging image gallery that features five panels. Each panel displays a portion of a picture, creating an intriguing mosaic effect. One of these panels is always expanded, revealing the full image. The magic lies in the smooth animations: when a panel expands, it elegantly grows in size, and when it contracts, it seamlessly transitions back to its original panel state.
 This interactive gallery provides an enjoyable browsing experience, allowing users to explore images with a touch of elegance and flair. 📸✨
 
 What it looks like (please keep in mind GIF framerate is very limited, the animations are buttery smooth):
